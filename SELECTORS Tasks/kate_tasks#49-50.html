@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>kate_html</title>
+    </head>
+    <body>
+        <h2>Task#49 №1</h2>
+        <ul>
+            <li>text <a href="">link</a></li>
+            <li>text <a href="">link</a></li>
+            <li>text <a href="">link</a></li>
+            <li>text <a href=""><b>bold link</b></a></li>
+        </ul>
+         <!-- Расскажите какие родительские связи вы видите?
+        Я могу выделить следующие родительские связи:
+        Тег ul будет родителем(дедушкой) для тегов li, а и b.
+        li - родитель(отец) для тегов a, b и потомок для тега ul.
+        a - родитель для тега b и потомок для тегов li, ul.
+        b - потомок для тегов a, li, ul.
+        --> 
+        <h2>Task#49 №2</h2>
+        <table>
+            <tr>
+                <td>cell 1</td>
+                <td>cell 2</td>
+                <td>cell 3</td>
+            </tr>
+            <tr>
+                <td>cell 4</td>
+                <td>cell 5</td>
+                <td>cell 6</td>
+            </tr>
+            <tr>
+                <td>cell 7</td>
+                <td>cell 8</td>
+                <td>cell 9</td>
+            </tr>
+        </table>
+         <!-- 
+        Расскажите какие родительские связи вы видите?
+        Я могу выделить следующие родительские связи:
+        Тег table будет родителем(дедушкой) для тегов tr и td.
+        tr - родитель(отец) для тега td и потомок для тега table.
+        td - потомок для тегов tr и table.
+        --> 
+        <h2>Task#49 №3</h2>
+        <p>
+            This is a paragraph with text
+            <i><b>bold italic</b></i>
+            <a href="">link <i>italic</i></a>.
+        </p>
+         <!-- 
+        Какие потомки есть у абзаца? Какие непосредственные потомки есть у абзаца?
+        У тега p будут следующие потомки: теги i, b и a. 
+        Однако, непосредственными потомками для абзаца будут выступать только теги i и а.
+        --> 
+        <h2>Task#49 №4</h2>
+        <p>
+            <a href="">link <i><b>bold italic</b></i></a>
+        </p>
+         <!-- 
+        Расскажите, какие родители есть у тега b. Кто является его непосредственным родителем?
+        У тега b будут следующие родители: теги i, a и p. 
+        Однако, непосредственным родителем для тега b будет выступать только лишь тег i.
+        --> 
+        <h2>Task#50 №1</h2>
+        <p>
+            This is some <i>text</i> in paragraph.
+        </p>
+         <!-- Изучив код, скажите какой цвет будет иметь текст в теге i 
+        p {
+            color: blue;
+          }
+        Ответ: тег i будет голубого цвета
+        -->
+        <h2>Task#50 №2</h2>
+        <p>
+            This is some <b>text</b> in paragraph.
+        </p>
+         <!-- Изучив код, скажите какой цвет будет иметь текст в теге b 
+        p {
+            color: blue;
+          }
+         b {
+            color: red;
+          }   
+        Ответ: тег b будет красного цвета
+        -->
+        <h2>Task#50 №3</h2>
+        <p>
+            This is some <b>text</b> in paragraph.
+        </p>
+         <!-- Изучив код, скажите какой цвет будет иметь текст в теге b 
+         b {
+            color: red;
+          }  
+         p {
+            color: blue;
+          }
+        Ответ: тег b будет красного цвета
+        -->
+        <h2>Task#50 №4</h2>
+        <ul>
+            <li>text</li>
+            <li>text</li>
+            <li>text</li>
+        </ul>
+         <!-- Изучив код, скажите какой цвет будет иметь текст в теге li 
+        ul{
+            color: blue;
+          }
+        Ответ: тег li будет голубого цвета
+        -->
+        <h2>Task#50 №5</h2>
+        <ul>
+            <li>text</li>
+            <li>text</li>
+            <li>text</li>
+        </ul>
+         <!-- Изучив код, скажите какой цвет будет иметь текст в теге li 
+        p {
+            color: blue;
+          }
+        li {
+            color: red;
+          }   
+        Ответ: тег li будет красного цвета
+        -->
+        <h2>Task#50 №6</h2>
+        <ul>
+            <li>text <i>italic</i> text</li>
+            <li>text <i>italic</i> text</li>
+            <li>text <i>italic</i> text</li>
+        </ul>
+         <!-- Изучив код, скажите какой цвет будет иметь текст в теге i
+         p {
+            color: blue;
+          }
+        li {
+            color: red;
+          } 
+        i {
+            color: green;
+          }           
+        Ответ: тег i будет зеленого цвета
+        -->
+        <h2>Task#50 №7</h2>
+        <ul>
+            <li>text <i>italic</i> text</li>
+            <li>text <i>italic</i> text</li>
+            <li>text <i>italic</i> text</li>
+        </ul>
+         <!-- Изучив код, скажите какой размер будет иметь текст в теге i:
+        i {
+	       font-size: 30px;
+        }
+        ul {
+	        font-size: 20px;
+        }
+        li {
+	        color: red;
+	        font-weight: bold;
+        }      
+        Ответ: тег i будет иметь размер 30px
+        -->     
+    </body>
+</html>
