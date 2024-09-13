@@ -1,0 +1,32 @@
+.task51 { h1,h2,h3 {
+	text-align: center;
+}
+}
+.task52_1 {h1,h2,h3 {
+	text-align: center;
+}
+h2 {
+	color: blue;
+}
+h3 {
+	font-size: 16px;
+	color: red;
+}}
+.task52_2 {h1,h2,h3 {
+	text-align: center;
+    color: red;
+}
+h3 {
+	font-size: 16px;
+}}
+.task53_1 { 
+    ul i{
+    color: red;}
+    p i{
+    color: green;}}
+.task53_2 { 
+        p b i{
+        color: red;}}
+.task54 { 
+            li > b{
+            color: red;}}
