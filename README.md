@@ -64,3 +64,7 @@
 <p>
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/SELECTORS%20Tasks/tasks%2358-65">Tasks #58-65</a>
 </p>
+
+<p>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/SELECTORS%20Tasks/tasks%2366-70">Tasks #66-70</a>
+</p>
