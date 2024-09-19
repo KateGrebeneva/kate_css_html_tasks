@@ -94,3 +94,36 @@
 <p>
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/BLOCK%20MODEL/tasks%23123-153">Tasks #123-153</a>
 </p>
+
+<p>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/BLOCK%20MODEL/tasks%23158-173">Tasks #158-173</a>
+</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&pause=1000&color=D45050&width=435&lines=%F0%9F%8C%B8++Tasks+%22POSITIONING%22" alt="Typing SVG" /></a>
+
+<p>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/POSITIONING%20Tasks/task%23174">Task #174</a>
+</p>
+
+<p>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/POSITIONING%20Tasks/task%23175">Task #175</a>
+</p>
+
+<p>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/POSITIONING%20Tasks/task%23176">Task #176</a>
+</p>
+
+<p>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/POSITIONING%20Tasks/task%23179">Task #179</a>
+</p>
+
+<p>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/POSITIONING%20Tasks/task%23180">Task #180</a>
+</p>
+
+<p>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/POSITIONING%20Tasks/task%23182">Task #182</a>
+</p>
+
+<p>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/POSITIONING%20Tasks/tasks%23184_185">Tasks #184-185</a>
+</p>
