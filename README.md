@@ -150,3 +150,8 @@
 <p>
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/GRID%20Tasks/tasks%23228-239">Tasks #228-239</a>
 </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&pause=1000&color=D45050&width=435&lines=%F0%9F%8C%B8++Tasks+%22LAYOUTS%22" alt="Typing SVG" /></a>
+
+<p>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJiNGprcGNycDBrd2Z4dnF1aGRscnNmZnlodnY5ODliNTd5dXRhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iEbPnIPyh9Exq/giphy.gif" width="47px"/><a href="https://github.com/KateGrebeneva/kate_css_html_tasks/tree/main/LAYOUTS%20Tasks/tasks%23240-242">Tasks #240-242</a>
+</p>
